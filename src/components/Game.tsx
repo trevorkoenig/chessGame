@@ -4,7 +4,7 @@ import styled from 'styled-components';
 function Game() {
     return (
         <div>
-            
+            Hello World
         </div>
     )
 }
